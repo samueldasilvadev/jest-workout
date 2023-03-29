@@ -1,0 +1,15 @@
+{
+  "name": "jest-workout",
+  "version": "1.0.0",
+  "description": "Workout",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "author": "Samuel da Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
