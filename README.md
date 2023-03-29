@@ -3,7 +3,7 @@
 ## error-list
 Possíveis erros que podem ocorrer ao usar o Jest.
 
-### Erro ao usar o import com jest (SyntaxError: Cannot use import statement outside a module)
+### ERROR-001: Erro ao usar o import com jest (SyntaxError: Cannot use import statement outside a module)
 O jest dá suporte nativo apenas ao commonjs, para usar o ESM é necessário usar o babel
 para fazer um preset dos modulos.
 
